@@ -63,3 +63,5 @@ Run the script using Python 3.
 
 ✅ Conclusion:
 This weather forecast dashboard project effectively integrates real-time data from an external API with powerful visualization tools in Python. It can be extended further to include wind speed, pressure, or even alerts, making it a great starting point for weather-based applications or dashboards.
+
+![Image](https://github.com/user-attachments/assets/d51acad9-d6dc-4f2c-9791-1bcb061e6b7d)
